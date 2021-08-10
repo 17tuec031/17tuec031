@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<html>
+<title>Register</title>
+<head>
+	<body>
+		<h1>REGISTER</h1>
+	</body>
+</title>
+<form action="REGISTER.php" method="POST">
+	<div>
+<label>Full name</label>
+<input type="text" name="firstname"placeholder="first name">
+<input type="text" name="lastname"placeholder="last name">
+<div>
+<br><br>
+<label>Address</label>
+<textarea></textarea>
+<div>
+	<br><br>
+<label>Email adress</label>
+<input type="text" name="name">
+<div>
+	<br><br>
+	<div>
+<label>phone number</label>
+<input type="number" name="phon number">
+</div>
+	<br><br>
+	<div>
+<label>Gender</label>
+<select> name="Gender">
+	<option value="male">male</option>
+	<option value="Female">Female</option>
+	<option value="others">Others</option>
+</select>
+</div>
+<br><br>
+<div>
+<label>Hobbies</label>
+<select> name="Hobbies">
+	<option value="cricket">cricket</option>
+	<option value="Movies">movies</option>
+	<option value="Hockey">Hockey</option>
+</select>
+</div>
+<br><br>
+<div>
+	<label>Languages</label>
+	<input type="type" name="languages">
+</div>
+<br><br>
+<label>Skill set</label>
+<select> name="skills">
+	<option value="C">C</option>
+	<option value="C++">C++</option>
+	<option value="OTHERS">OTHERS</option>
+</select>
+</div>
+<br><br>
+<label>Country</label>
+<select> name="Country">
+	<option value="India">India</option>
+	<option value="america">america</option>
+	<option value="africa">africa</option>
+	<option value="France">France</option>
+	<option value="china">China</option>
+	<option value="OTHERS">OTHERS</option>
+</select>
+</div>
+<br><br>
+<label>Select Country</label>
+<select> name="Country">
+	<option value="India">India</option>
+	<option value="america">america</option>
+	<option value="africa">africa</option>
+	<option value="France">France</option>
+	<option value="china">China</option>
+	<option value="OTHERS">OTHERS</option>
+</select>
+</div>
+<br><br>
+	<div>
+<label>Date of birth</label>
+<input type="Date" name="lname">
+</div>
+<br><br>
+<input type="submit" name="submit" value="submit">
+</forms>
+</body>
+</html>
+
+
+
+
+
+
+	
+
+
